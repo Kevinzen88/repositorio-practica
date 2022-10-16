@@ -1,27 +1,35 @@
-# Practica23
+## Practica 2 de programacion web
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
+El proyecto esta generadoe en la  [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
 
-## Development server
+## Host de trabajo
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+`http://localhost:4200/`
 
-## Code scaffolding
+## Equipo de trabajo
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Pool Huchim Lizzer Benjamín - 7007
+Cauich Cab Manuel Santiago – 7006
+Cab Tun Carlos Obed – 7013
+Huchim Caamal Roberth – 7015
+Mena Gomez Kevin Jose - 7022
 
-## Build
+## Plan de trabajo
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Se dividira en 4 secciones de trabajo para hacer mas facil el uso de estilos y la organizacion
+-footer
+-header
+-seccion1
+-seccion2
 
-## Running unit tests
+----Tiempos estimados serian:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+-footer: siendo lo mas facil no deberia tomar mas de 10 minutos.
 
-## Running end-to-end tests
+-header:compuesto de 2 imagenes hechas o por tablas o por margenes seria 5 minutos para buscar sus tamados,si
+nos ponemos a manejar su contenedor se sumarian 3 minutos siendo un total de 8 minutos de trabajo.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+-seccion1: la creaccion de las targetas sera con las cards o las tablas y deberia tomar 30 min acabar todo el contenedor.
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+-seccion2: serian un contenedor con 6 cards dentro alineadas en el centro cada una con una imagen y encima de el contenedor
+seria otro contenedor con un texto y el fondo del mismo,esto debeira tomar un tiempo de 45 min.
